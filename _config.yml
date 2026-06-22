@@ -4,11 +4,11 @@ theme: jekyll-theme-chirpy
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: "기술사 뉴스 블로그"
-tagline: "정보관리기술사 출제분야 관점의 IT 뉴스 토픽 분석"
+title: "IT 지식 블로그"
+tagline: "정보처리, IT 지식 분석"
 
 description: >-
-  정보관리기술사 출제분야 관점으로 IT 뉴스 및 트렌드 토픽을 분석하고 정리하는 기술 블로그입니다.
+  정보처리, IT 지식을 정리하는 기술 블로그입니다.
 
 # [포팅 가이드] 포팅할 GitHub 계정 및 저장소 정보에 맞게 아래 값을 수정하세요.
 # 예: https://<github-username>.github.io
