@@ -12,23 +12,23 @@ description: >-
 
 # [포팅 가이드] 포팅할 GitHub 계정 및 저장소 정보에 맞게 아래 값을 수정하세요.
 # 예: https://<github-username>.github.io
-url: "https://sujaekong.github.io"
+url: "https://masteritpe.github.io"
 # 저장소 이름 (계정 기본 페이지일 경우 빈 값 "" 사용)
 # 예: /<repository-name>
-baseurl: "/tech-engineer-blog"
+baseurl: ""
 
 github:
-  username: SujaeKong # 포팅할 GitHub 계정명으로 변경
+  username: masteritpe # 포팅할 GitHub 계정명으로 변경
 
 social:
-  name: SujaeKong # 블로그 소유자 이름
+  name: masteritpe # 블로그 소유자 이름
   links:
     - https://cafe.naver.com/kpcitpe
-    - https://github.com/SujaeKong # 포팅할 GitHub 프로필 링크로 변경
+    - https://github.com/masteritpe # 포팅할 GitHub 프로필 링크로 변경
 
 theme_mode: # light or dark, empty = system
 
-avatar: "https://github.com/SujaeKong.png"
+avatar: "https://github.com/masteritpe.png"
 
 toc: true
 
