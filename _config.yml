@@ -4,11 +4,11 @@ theme: jekyll-theme-chirpy
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: "IT 지식 블로그"
-tagline: "정보처리, IT 지식 분석"
+title: "길상여의"
+tagline: "정보처리, IT지식"
 
 description: >-
-  정보처리, IT 지식을 정리하는 기술 블로그입니다.
+  정보처리, IT지식을 정리하는 블로그입니다.
 
 # [포팅 가이드] 포팅할 GitHub 계정 및 저장소 정보에 맞게 아래 값을 수정하세요.
 # 예: https://<github-username>.github.io
@@ -23,7 +23,6 @@ github:
 social:
   name: masteritpe # 블로그 소유자 이름
   links:
-    - https://cafe.naver.com/kpcitpe
     - https://github.com/masteritpe # 포팅할 GitHub 프로필 링크로 변경
 
 theme_mode: # light or dark, empty = system
@@ -31,10 +30,6 @@ theme_mode: # light or dark, empty = system
 avatar: "https://github.com/masteritpe.png"
 
 toc: true
-
-analytics:
-  google:
-    id: "G-3H4G5XXWQL"
 
 comments:
   provider: # [disqus | utterances | giscus]
