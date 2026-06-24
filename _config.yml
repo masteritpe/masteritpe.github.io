@@ -63,7 +63,6 @@ defaults:
       comments: true
       toc: true
       permalink: /posts/:title/
-      author: "기술사 뉴스봇"
   - scope:
       path: _drafts
     values:
