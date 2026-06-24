@@ -98,6 +98,9 @@ exclude:
   - "*.config.js"
   - "package*.json"
 
+include:
+  - _data
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
